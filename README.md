@@ -40,7 +40,6 @@ Developing with purpose:
 * [Strategic Balanced Scorecard (SBS)](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
 * [Objectives and key results (OKR)](https://github.com/joelparkerhenderson/objectives_and_key_results)
 * [Key performance indicator (KPI)](https://github.com/joelparkerhenderson/key_performance_indicator)
-* [SMART criteria for goals](https://github.com/joelparkerhenderson/smart_criteria)
 * [Value Stream Mapping (VSM)](https://github.com/joelparkerhenderson/value_stream_mapping)
 
 Developing with teams:
@@ -57,9 +56,7 @@ Developing with planners:
 
 * [Stakeholder analysis](https://github.com/joelparkerhenderson/stakeholder_analysis)
 * [Responsibility assignment matrix (RAM)](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
-* [Statement of Work (SOW)](https://github.com/joelparkerhenderson/statement_of_work)
-* [Functional specs template](https://github.com/joelparkerhenderson/functional_specifications_template)
-* [Functional specs tutorial](https://github.com/joelparkerhenderson/functional_specifications_tutorial)
+* [SMART criteria for goals](https://github.com/joelparkerhenderson/smart_criteria)
 
 Developing with project managers:
 
