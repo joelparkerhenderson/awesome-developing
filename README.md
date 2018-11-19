@@ -18,7 +18,7 @@ Preferences for working:
 * written > verbal
 * experiment > intuition
 * testing > guessing
-* empowered > commanded
+* empowering > commanding
 * commitment > consensus
 
 Preferences for implementation:
