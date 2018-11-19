@@ -57,6 +57,7 @@ Developing with planners:
 * [Stakeholder analysis](https://github.com/joelparkerhenderson/stakeholder_analysis)
 * [Responsibility assignment matrix (RAM)](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
 * [SMART criteria for goals](https://github.com/joelparkerhenderson/smart_criteria)
+* [ADKAR change manangement model](https://github.com/joelparkerhenderson/adkar_change_management_model)
 
 Developing with project managers:
 
