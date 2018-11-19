@@ -49,7 +49,7 @@ Developing with planners:
 * [Project management checklist](https://github.com/joelparkerhenderson/project_management_checklist)
 * [Stakeholder analysis](https://github.com/joelparkerhenderson/stakeholder_analysis)
 * [Responsibility assignment matrix (RAM)](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
-* [Statement of Work (SOW)]((https://github.com/joelparkerhenderson/statement_of_work)
+* [Statement of Work (SOW)](https://github.com/joelparkerhenderson/statement_of_work)
 * [Functional specs template](https://github.com/joelparkerhenderson/functional_specifications_template)
 * [Functional specs tutorial](https://github.com/joelparkerhenderson/functional_specifications_tutorial)
 
