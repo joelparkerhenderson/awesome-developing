@@ -88,6 +88,15 @@ Developing with engineers:
 * [Git commit message](https://github.com/joelparkerhenderson/git_commit_message)
 
 
+## Computer science concepts
+
+* [algorithms](doc/algorithms.md)
+* [data structures](doc/data_structures.md)
+* [software concepts](doc/software_concepts.md)
+* [software design patterns](doc/software_design_patterns.md)
+* [software testing](software_testing.md)
+* [technical debt causes](technical_debt_causes.md)
+
 ## To do - Ways of Working
 
 * [Amazon Leadership Principles](https://www.amazon.jobs/principles) e.g. always day 1, bias for action, customer first, disagree and commit.
