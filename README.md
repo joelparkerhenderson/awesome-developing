@@ -43,15 +43,8 @@ Developing with stakeholders:
 * [SMART criteria for goals](https://github.com/joelparkerhenderson/smart_criteria)
 * [Maturity Models (MM)](https://github.com/joelparkerhenderson/maturity_models)
 * [Value Stream Mapping (VSM)](https://github.com/joelparkerhenderson/value_stream_mapping)
-
-Developing with planners:
-
-* [Project management checklist](https://github.com/joelparkerhenderson/project_management_checklist)
 * [Stakeholder analysis](https://github.com/joelparkerhenderson/stakeholder_analysis)
 * [Responsibility assignment matrix (RAM)](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
-* [Statement of Work (SOW)](https://github.com/joelparkerhenderson/statement_of_work)
-* [Functional specs template](https://github.com/joelparkerhenderson/functional_specifications_template)
-* [Functional specs tutorial](https://github.com/joelparkerhenderson/functional_specifications_tutorial)
 
 Developing with teams:
 
@@ -62,6 +55,28 @@ Developing with teams:
 * [Feedback request template](https://github.com/joelparkerhenderson/feedback_request_template)
 * [Social Value Orientation (SVO)](https://github.com/joelparkerhenderson/social_value_orientation)
 * [Wordbooks &amp; glossaries](https://github.com/joelparkerhenderson/wordbooks)
+
+Developing with planners:
+
+* [Project management checklist](https://github.com/joelparkerhenderson/project_management_checklist)
+* [Stakeholder analysis](https://github.com/joelparkerhenderson/stakeholder_analysis)
+* [Responsibility assignment matrix (RAM)](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
+* [Statement of Work (SOW)](https://github.com/joelparkerhenderson/statement_of_work)
+* [Functional specs template](https://github.com/joelparkerhenderson/functional_specifications_template)
+* [Functional specs tutorial](https://github.com/joelparkerhenderson/functional_specifications_tutorial)
+
+Developing with planners:
+
+* [Project management checklist](https://github.com/joelparkerhenderson/project_management_checklist)
+* [Project management ROPE estimates](https://github.com/joelparkerhenderson/project_management_rope_estimates)
+* [Project management ROPE estimates](https://github.com/joelparkerhenderson/project_management_rope_estimates)
+
+Developing with specifications:
+
+* [Statement of Work (SOW)](https://github.com/joelparkerhenderson/statement_of_work)
+* [Functional specs template](https://github.com/joelparkerhenderson/functional_specifications_template)
+* [Functional specs tutorial](https://github.com/joelparkerhenderson/functional_specifications_tutorial)
+
 
 Developing with assessments:
 
@@ -135,6 +150,7 @@ These books are for general developing. For specific languages, tools, etc. see 
 
 * [101 Design Ingredients to Solve Big Tech Problems](https://pragprog.com/book/ec101di/101-design-ingredients-to-solve-big-tech-problems)
 * [A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/book/jwdsal/a-common-sense-guide-to-data-structures-and-algorithms)
+* [Agile and Lean Program Management](https://pragprog.com/book/d-jrlean/agile-and-lean-program-management)
 * [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives)
 * [Design It! From Programmer to Software Architect](https://pragprog.com/book/mkdsa/design-it)
 * [Debug It! Find, Repair, and Prevent Bugs in Your Code](https://pragprog.com/book/pbdp/debug-it)
