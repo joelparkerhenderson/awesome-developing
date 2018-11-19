@@ -58,18 +58,17 @@ Developing with teams:
 
 Developing with planners:
 
-* [Project management checklist](https://github.com/joelparkerhenderson/project_management_checklist)
 * [Stakeholder analysis](https://github.com/joelparkerhenderson/stakeholder_analysis)
 * [Responsibility assignment matrix (RAM)](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
 * [Statement of Work (SOW)](https://github.com/joelparkerhenderson/statement_of_work)
 * [Functional specs template](https://github.com/joelparkerhenderson/functional_specifications_template)
 * [Functional specs tutorial](https://github.com/joelparkerhenderson/functional_specifications_tutorial)
 
-Developing with planners:
+Developing with project managers:
 
-* [Project management checklist](https://github.com/joelparkerhenderson/project_management_checklist)
-* [Project management ROPE estimates](https://github.com/joelparkerhenderson/project_management_rope_estimates)
-* [Project management ROPE estimates](https://github.com/joelparkerhenderson/project_management_rope_estimates)
+* [Project management checklist](https://github.com/sixarm/sixarm_project_management_checklist)
+* [Project management priority score](https://github.com/sixarm/sixarm_project_management_priority_score)
+* [Project management ROPE estimate](https://github.com/sixarm/sixarm_project_management_rope_estimate)
 
 Developing with specifications:
 
