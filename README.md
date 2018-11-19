@@ -35,16 +35,13 @@ Preferences for implementation:
 
 How can we know if we're developing the right things? We ask questions and we communiate with everyone involved.
 
-Developing with stakeholders:
+Developing with purpose:
 
 * [Strategic Balanced Scorecard (SBS)](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
 * [Objectives and key results (OKR)](https://github.com/joelparkerhenderson/objectives_and_key_results)
 * [Key performance indicator (KPI)](https://github.com/joelparkerhenderson/key_performance_indicator)
 * [SMART criteria for goals](https://github.com/joelparkerhenderson/smart_criteria)
-* [Maturity Models (MM)](https://github.com/joelparkerhenderson/maturity_models)
 * [Value Stream Mapping (VSM)](https://github.com/joelparkerhenderson/value_stream_mapping)
-* [Stakeholder analysis](https://github.com/joelparkerhenderson/stakeholder_analysis)
-* [Responsibility assignment matrix (RAM)](https://github.com/joelparkerhenderson/responsibility_assignment_matrix)
 
 Developing with teams:
 
@@ -76,11 +73,11 @@ Developing with specifications:
 * [Functional specs template](https://github.com/joelparkerhenderson/functional_specifications_template)
 * [Functional specs tutorial](https://github.com/joelparkerhenderson/functional_specifications_tutorial)
 
-
 Developing with assessments:
 
 * [Agile assessment](https://github.com/joelparkerhenderson/agile_assessment)
 * [Discovery assessment](https://github.com/joelparkerhenderson/discovery_assessment)
+* [Maturity Models (MM)](https://github.com/joelparkerhenderson/maturity_models)
 
 Developing with startups:
 
