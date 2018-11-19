@@ -104,6 +104,12 @@ Devloping with git:
 * [technical debt causes](technical_debt_causes.md)
 
 
+## Awesome lists
+
+* [Awesome lists, curated](https://github.com/sindresorhus/awesome)
+* [Awesome programming](https://github.com/hardikvasa/awesome-programming)
+
+
 ## To do - Ways of Working
 
 * [Amazon Leadership Principles](https://www.amazon.jobs/principles) e.g. always day 1, bias for action, customer first, disagree and commit.
@@ -121,3 +127,40 @@ Thought leaders:
 
 * [ThoughtWorks.com](https://thoughtworks.com/)
 * [SVGP](https://svpg.com/)
+
+
+## Books by Pragmatic Programming
+
+These books are good for general developing.
+
+There are many books by the same publisher that are about specific languages (e.g. JavaScript, Elixir, Ruby), frameworks (e.g. React, Phoenix, Rails), etc.
+
+* [101 Design Ingredients to Solve Big Tech Problems](https://pragprog.com/book/ec101di/101-design-ingredients-to-solve-big-tech-problems)
+* [A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/book/jwdsal/a-common-sense-guide-to-data-structures-and-algorithms)
+* [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives)
+* [Design It! From Programmer to Software Architect](https://pragprog.com/book/mkdsa/design-it)
+* [Debug It! Find, Repair, and Prevent Bugs in Your Code](https://pragprog.com/book/pbdp/debug-it)
+* [Domain Modeling Made Functional](https://pragprog.com/book/swdddf/domain-modeling-made-functional)
+* [Behind Closed Doors: Secrets of Great Management](https://pragprog.com/book/rdbcd/behind-closed-doors)
+* [Create Your Successful Agile Project: Collaborate, Measure, Estimate, Deliver](https://pragprog.com/book/jragm/create-your-successful-agile-project)
+* [Creating Great Teams](How Self-Selection Lets People Excel]https://pragprog.com/book/mmteams/creating-great-teams)
+* [Designed for Use: Create Usable Interfaces for Applications and the Web](https://pragprog.com/book/lmuse2/designed-for-use-second-edition)
+* [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice)
+* [Driving Technical Change: Why People on Your Team Don't Act on Good Ideas, and How to Convince Them They Should](https://pragprog.com/book/trevan/driving-technical-change)
+* [Explore It! Reduce Risk and Increase Confidence with Exploratory Testing](https://pragprog.com/book/ehxta/explore-it)
+* [Liftoff: Start and Sustain Successful Agile Teams](https://pragprog.com/book/liftoff/liftoff-second-edition)
+* [Manage It! Your Guide to Modern Pragmatic Project Management](https://pragprog.com/book/jrpm/manage-it)
+* [New Programmer's Survival Manual: Navigate Your Workplace, Cube Farm, or Startup](https://pragprog.com/book/jcdeg/new-programmer-s-survival-manual)
+* [Outsource It! A No-Holds-Barred Look at the Good, the Bad, and the Ugly of Offshoring Tech Projects](https://pragprog.com/book/nkout/outsource-it)
+* [Practices of an Agile Developer]((https://pragprog.com/book/pad/practices-of-an-agile-developer)
+* [Predicting the Unpredictable: Pragmatic Approaches to Estimating Project Schedule or Cost](https://pragprog.com/book/d-jrpredict/predicting-the-unpredictable)
+* [Real-World Kanban: Do Less, Accomplish More with Lean Thinking](https://pragprog.com/book/mskanban/real-world-kanban)
+* [Release It! Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee2/release-it-second-edition)
+* [Remote Pairing: Collaborative Tools for Distributed Development](https://pragprog.com/book/jkrp/remote-pairing)
+* [Ship It! Practical Guide to Successful Software Projects](https://pragprog.com/book/prj/ship-it)
+* [Small, Sharp, Software Tools: Harness the Combinatoric Power of Command-Line Tools and Utilities](https://pragprog.com/book/bhcldev/small-sharp-software-tools)
+* [Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis](https://pragprog.com/book/atevol/software-design-x-rays)
+* [The Agile Samurai: How Agile Masters Deliver Great Software](https://pragprog.com/book/jtrap/the-agile-samurai)
+* [The Developer's Code: What Real Programmers Do](https://pragprog.com/book/kcdc/the-developer-s-code)
+* [The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece](https://pragprog.com/book/rjnsd/the-nature-of-software-development)
+* [Your Code as a Crime Scene: Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene)
