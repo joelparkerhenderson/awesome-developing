@@ -63,7 +63,7 @@ Developing with teams:
 * [Social Value Orientation (SVO)](https://github.com/joelparkerhenderson/social_value_orientation)
 * [Wordbooks &amp; glossaries](https://github.com/joelparkerhenderson/wordbooks)
 
-Developing with assessors:
+Developing with assessments:
 
 * [Agile assessment](https://github.com/joelparkerhenderson/agile_assessment)
 * [Discovery assessment](https://github.com/joelparkerhenderson/discovery_assessment)
@@ -75,7 +75,7 @@ Developing with startups:
 * [Vision statements](https://github.com/joelparkerhenderson/vision_statements)
 * [Oblique strategies](https://github.com/joelparkerhenderson/oblique_strategies)
 
-Developing with lawyers:
+Developing with legal agreements:
 
 * [Consulting agreement](https://github.com/sixarm/sixarm_company_consulting_agreement)
 * [Confidentiality agreement](https://github.com/sixarm/sixarm_company_confidentiality_agreement)
