@@ -131,9 +131,7 @@ Thought leaders:
 
 ## Books by Pragmatic Programming
 
-These books are for general developing. For specific languages, frameworks, tools, etc. see https://pragprog.com/
-
-There are many books by the same publisher that are about specific languages, frameworks, and tools.
+These books are for general developing. For specific languages, tools, etc. see https://pragprog.com/
 
 * [101 Design Ingredients to Solve Big Tech Problems](https://pragprog.com/book/ec101di/101-design-ingredients-to-solve-big-tech-problems)
 * [A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/book/jwdsal/a-common-sense-guide-to-data-structures-and-algorithms)
