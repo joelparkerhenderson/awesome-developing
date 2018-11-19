@@ -94,6 +94,7 @@ Developing with engineers:
 * [Architecture Decision Record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record)
 * [System quality attributes (SQA)](https://github.com/joelparkerhenderson/system_quality_attributes)
 * [Coordinated disclosure](https://github.com/joelparkerhenderson/coordinated_disclosure)
+* [Versioning](https://github.com/joelparkerhenderson/versioning)
 
 Devloping with git:
 
