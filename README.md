@@ -85,7 +85,13 @@ Developing with engineers:
 * [Architecture Decision Record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record)
 * [System quality attributes (SQA)](https://github.com/joelparkerhenderson/system_quality_attributes)
 * [Coordinated disclosure](https://github.com/joelparkerhenderson/coordinated_disclosure)
+
+Devloping with git:
+
 * [Git commit message](https://github.com/joelparkerhenderson/git_commit_message)
+* [Git commit template](https://github.com/joelparkerhenderson/git_commit_template)
+* [Git flow help](https://github.com/joelparkerhenderson/git_flow_help)
+* [GitHub special files and paths](https://github.com/joelparkerhenderson/github_special_files_and_paths)
 
 
 ## Computer science concepts
@@ -96,6 +102,7 @@ Developing with engineers:
 * [software design patterns](doc/software_design_patterns.md)
 * [software testing](software_testing.md)
 * [technical debt causes](technical_debt_causes.md)
+
 
 ## To do - Ways of Working
 
