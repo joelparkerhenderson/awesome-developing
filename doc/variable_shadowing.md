@@ -4,25 +4,25 @@ https://en.wikipedia.org/wiki/Variable_shadowing
 
 Examples of variable shadowing with synergy with affine types (move semantics):
 
-   x = x.unwrap // e.g. change from an object to its primitive type
+    x = x.unwrap // e.g. change from an object to its primitive type
 
-   x = x.validate // e.g. if valid, then return self, else throw
+    x = x.validate // e.g. if valid, then return self, else throw
 
-   x = x.sanitize // e.g. untaint, trim, chop, etc.
+    x = x.sanitize // e.g. untaint, trim, chop, etc.
 
 Examples of variable shadowing for functional changes:
 
-   x = typecast(x)  // e.g. change from one type to another type
+    x = typecast(x)  // e.g. change from one type to another type
 
-   x = decorate(x) // e.g. add info to the object
+    x = decorate(x) // e.g. add info to the object
 
-   x = combine(x, y, z) // e.g. merge, intersect, union, min, max 
+    x = combine(x, y, z) // e.g. merge, intersect, union, min, max 
 
 Example of variable shadowing for changing mutability/immutability:
 
-   let mut vec = Vec::new(); // vec is mutable
-   vec.push(a);
-   let vec = vec; // vec immutable
+    let mut vec = Vec::new(); // vec is mutable
+    vec.push(a);
+    let vec = vec; // vec immutable
 
 Some languages allow variable shadowing.
 
