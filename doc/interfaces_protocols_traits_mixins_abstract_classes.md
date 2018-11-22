@@ -121,7 +121,7 @@ Comparison:
 
 * A mixin defines behaviors via full method definitions, same as a traits, and may also carry state through member variables, whereas traits usually don't. A mixin does not express that it requires specific properties or methods for functioning. Mixins usually extend existing objects or classes, and do not usually create new objects from scratch.
 
-* An abstract class defines behaviors via method signatures (e.g. pure virtual functions) and can also include method implementations, member variables, helper methods, and more. An abstrace class is usable solely by its subclasses, which is unlike interaces, protocols, traits, and mixins.
+* An abstract class defines behaviors via method signatures (e.g. pure virtual functions) and can also include method implementations, member variables, helper methods, and more. An abstract class is usable solely by its subclasses, which is unlike interaces, protocols, traits, and mixins.
 
 Similarities:
 
